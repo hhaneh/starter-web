@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    CL Heng clheng@wongfong.com @clheng
 
 # THANKS
 
