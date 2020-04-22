@@ -2,7 +2,8 @@
 
 This repository is for showing how Git and GitHub work
 Modify again,
-Adding a line for rebasing example.
+Adding a line for rebasing examplem
+then more changes from myfeature branch.
 
 ## Purpose by HCL
 Does any one see this ?
