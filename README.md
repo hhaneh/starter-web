@@ -2,8 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 Modify again,
-Adding a line for rebasing examplem
-then more changes from myfeature branch.
+Updating for emergency fix after stash
 
 ## Purpose by HCL
 Does any one see this ?
