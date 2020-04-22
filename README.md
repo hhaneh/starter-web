@@ -2,7 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 Modify again,
-Updating for emergency fix after stash
+Making change for multiple stash
 
 ## Purpose by HCL
 Does any one see this ?
